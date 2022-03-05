@@ -50,11 +50,9 @@ Saída:
 ```
 
 
- * [Resolução Questão Um](https://github.com/yasminnascimi/desafio-capgemini/wiki/Quest%C3%A3o-01)
+ * [Resolução Questão 1](https://github.com/yasminnascimi/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/Questao1.java)
 
-``` 
-
-
+</details>
 
 <h2 id="question02">
 <img height="30" src="https://img.icons8.com/color/48/000000/documents.png"/>
@@ -80,7 +78,9 @@ Saída:
 Explicação:
 Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [3, 1].
 
-* [Resolução Questão Dois](https://github.com/yasminnascimi/desafio-capgemini/wiki/Quest%C3%A3o-02)
+* [Resolução Questão 2](https://github.com/yasminnascimi/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/Questao2.java)
+	
+</details>
 
 <h2 id="question03">
 <img height="30" src="https://img.icons8.com/color/48/000000/documents.png"/>
@@ -149,7 +149,7 @@ mun
 do
 ```
 
-* [Resolução Questão Três](https://github.com/yasminnascimi/desafio-capgemini/wiki/Quest%C3%A3o-03)
+* [Resolução Questão 3](https://github.com/yasminnascimi/Desafio-de-programa-o-CAPGEMINI-02/blob/main/Desafio%20Capgemini%202022/Questao3.java)
 
 
 
@@ -167,7 +167,7 @@ do
 
 <h1 id="desenvolvedor">
 <img height="30" src="https://img.icons8.com/color/48/000000/devpost.png"/>
-  Desenvolvedor
+  Desenvolvedora
 </h1>
 
 <table align="center">
